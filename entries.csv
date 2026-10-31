@@ -1,0 +1,4 @@
+race_id,race_date,race_name,venue,surface,distance,horse_id,horse_name,horse_no,jockey
+TEST20261101_01,2026-11-01,サンプルレース,東京,芝,1600,H001,サンプルホースA,1,騎手A
+TEST20261101_01,2026-11-01,サンプルレース,東京,芝,1600,H002,サンプルホースB,2,騎手B
+TEST20261101_01,2026-11-01,サンプルレース,東京,芝,1600,H003,サンプルホースC,3,騎手C
